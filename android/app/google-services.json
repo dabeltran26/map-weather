@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "562493007430",
+    "project_id": "map-weather-3149a",
+    "storage_bucket": "map-weather-3149a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562493007430:android:fd8de9086fc6185e0d0c47",
+        "android_client_info": {
+          "package_name": "com.dabeltran.map_weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562493007430-2gq84bad3j2retln2uoaan9kkng81d7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY1nkUJxDnt_NxGDWJa_ZkmK6hZOxZUBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562493007430-2gq84bad3j2retln2uoaan9kkng81d7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562493007430-208uldli8r8e14ml5kpjgcngg9a4q68s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dabeltran.mapWeather"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
